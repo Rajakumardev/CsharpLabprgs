@@ -1,1 +1,12 @@
-﻿<Properties StartupItem="EarlyBinding/EarlyBinding.csproj" />
+﻿<Properties StartupItem="EarlyBinding/EarlyBinding.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="EarlyBinding/Program.cs">
+    <Files>
+      <File FileName="EarlyBinding/Program.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
